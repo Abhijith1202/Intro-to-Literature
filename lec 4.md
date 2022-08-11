@@ -43,10 +43,9 @@ _Short_ stories, so pick what to include and what not to, and remark an observat
 It is the way a story gets told/ the voice that narrates the story to us.
 
 - Increasing importance of narrator over past 2 centuries.
-
 - 3rd person narration: Someone outside the story, refers to all characters by name.
   - Omniscient Narrator: knows everything about the character and stories, and has total access to their thoughts, feelings and actions/
-    - Unintrusive:
+    - Unintrusive: narrator doesn't draw attention to themselves
     - Intrusive: 
   - Limited Omniscience: 
 - First person narration: narrator is a part of the story.
@@ -54,7 +53,6 @@ It is the way a story gets told/ the voice that narrates the story to us.
 - Second person narration: Narrator addresses the other person as "you".
   - eg: Italo Calvino's _If on a winter's night a traveller_.
   - Also called self reflexive/involuted novel (includes the story of the creation of the story in it).
--  
 
 
 
